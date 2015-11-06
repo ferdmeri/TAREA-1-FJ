@@ -17,8 +17,10 @@ public class Tarea1FJ {
         System.out.println("*****************************************");
         System.out.println("               HOLA MUNDO");
         System.out.println("            FERNANDO MERINO");
-        System.out.println("             BARCELONA SC");
-        System.out.println("     FUNDAMENTOS DE JAVA - ESPOL");
+        System.out.println("            FERNANDO ZATIZABAL");
+        System.out.println("              BARCELONA SC");
+        System.out.println("      FUNDAMENTOS DE JAVA - ESPOL");
+         System.out.println("              LICRED-FIEC");
         System.out.println("*****************************************");
         
         
