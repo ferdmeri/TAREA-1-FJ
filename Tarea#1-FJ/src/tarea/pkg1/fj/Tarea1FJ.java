@@ -21,6 +21,7 @@ public class Tarea1FJ {
         System.out.println("              JULIO AREVALO");
         System.out.println("              DANIEL MERINO");
         System.out.println("              BARCELONA SC");
+        System.out.println("              B21213213C");
         System.out.println("      FUNDAMENTOS DE JAVA - ESPOL");
          System.out.println("              LICRED-FIEC");
         System.out.println("*****************************************");
